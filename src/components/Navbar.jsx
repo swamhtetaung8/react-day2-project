@@ -2,7 +2,7 @@ import React from "react";
 import { RiReactjsFill } from "react-icons/ri";
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg bg-white fixed-top bg-body-tertiary">
+    <nav className="navbar navbar-expand-lg bg-white fixed-top bg-body-tertiary shadow-sm">
       <div className="container">
         <a className="navbar-brand d-flex align-items-center gap-3" href="#">
           <RiReactjsFill size={30} className=" ms-2" /> Day 2 Project
